@@ -1,0 +1,13 @@
+.tabs {
+  list-style: none;
+  display: flex;
+  gap: 6px;
+  padding: 0;
+}
+
+.tab {
+  background-color: #E4E5E4;
+  border: 0;
+  border-radius: 5px;
+}
+

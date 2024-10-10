@@ -1,0 +1,16 @@
+.cell {
+  width: 100%;
+  aspect-ratio: 1;
+  border: 0;
+  border-radius: 10px;
+  color: #CCCCCC;
+}
+
+.unchecked-cell {
+  background-color: #3D4D38;
+}
+
+.checked-cell {
+  background-color: #6E6E6E;
+}
+
