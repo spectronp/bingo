@@ -1,6 +1,7 @@
 {
   "name": "bingo",
   "homepage": "https://spectronp.github.io/bingo",
+  "license": "MIT",
   "author": {
     "name": "Nathan Campolina",
     "email": "nathancampolina.r@gmail.com"
